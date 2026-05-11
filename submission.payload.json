@@ -1,0 +1,34 @@
+{
+  "listingId": "32c6fb84-7d3d-4a9e-a348-143e4c59b494",
+  "link": "https://github.com/nicbstme/meteora-lp-copilot",
+  "tweet": "",
+  "otherInfo": "Meteora LP Copilot is a TypeScript app that uses LP Agent pool discovery, Zap In transaction generation, Zap Out quotes, and Zap Out transaction generation in one workflow. It runs in dry-run mode without an API key, supports live LP Agent API calls when configured, and does not collect private keys or sign transactions.",
+  "eligibilityAnswers": [
+    {
+      "question": "Project Title",
+      "answer": "Meteora LP Copilot"
+    },
+    {
+      "question": "Project Description",
+      "answer": "A TypeScript app that uses LP Agent pool discovery plus Zap In and Zap Out APIs to help Solana LPs evaluate Meteora pools and prepare one-click liquidity actions without handling private keys."
+    },
+    {
+      "question": "Project Github Link",
+      "answer": "https://github.com/nicbstme/meteora-lp-copilot"
+    },
+    {
+      "question": "Project Website",
+      "answer": "https://meteora-lp-copilot.vercel.app"
+    },
+    {
+      "question": "Did you submit this project to the official Frontier Hackathon on Colosseum? (Yes/No)",
+      "answer": "No"
+    },
+    {
+      "question": "Link to your Loom / Demo Video",
+      "answer": "https://meteora-lp-copilot.vercel.app"
+    }
+  ],
+  "ask": null,
+  "telegram": ""
+}
